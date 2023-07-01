@@ -1,0 +1,210 @@
+.card {
+    width: 200px;
+    padding: 30px;
+    background-color: #ff1500;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    float: center;
+    border-top: 10px solid yellow;
+    margin-bottom: -5px; /* Adjust this value as needed */
+  }
+   
+
+body {
+    background-color: #bd1000;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    background-color: #f0e407;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+  }
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    background-color: #fff200;
+    padding: 5px;
+    border: 5px;
+    border-color: #bd1000;
+}
+
+p {
+    border: 1px solid #fff200;
+    padding: 10px;
+    background-color: #bd1000;
+    color: yellow;
+    font-family: "Times New Roman", Times, serif;
+}
+  
+
+.china, .cuba, .laos, .northK, .vietnam {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-position: center;
+  }
+
+.china {
+  background-image: url("china.png"); 
+  border-radius: 50%; 
+}
+
+.cuba {
+  background-image: url("cuba.png"); 
+  border-radius: 50%; 
+}
+
+.laos {
+    background-image: url("Laos.png"); 
+    border-radius: 50%; 
+  }
+
+.northK{
+    background-image: url("northK.jpg"); 
+    border-radius: 50%; 
+  }
+
+.vietnam{
+    background-image: url("vietnam.png"); 
+    border-radius: 50%; 
+}
+
+
+/* Old Soviet Countries Part 1*/
+
+.afghanistan, .albania, .angola, .benin, .bulgaria, .congo, .czechia, .ethiopia, .eGermany, .grenada, .hungary {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-position: center;
+  }
+
+
+  /* Old Soviet Part 2 */
+.kampuchea, .mongolia, .mozambique, .poland, .romania, .somalia, .soviet, .tuva, .yemen, .yugoslavia {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-position: center;
+  }
+
+.afghanistan {
+    background-image: url("Afgan.png");
+    border-radius: 50%;
+}
+
+.bulgaria{
+    background-image: url("Bulgaria.png");
+    border-radius: 50%;
+}
+.albania {
+    background-image: url("albania.jpg");
+    border-radius: 50%;
+}
+
+.angola {
+    background-image: url("angola.jpg");
+    border-radius: 50%;
+}
+
+.benin {
+    background-image: url("Benin.png");
+    border-radius: 50%;
+}
+
+.congo {
+    background-image: url("congo.png");
+    border-radius: 50%;
+}
+
+.czechia {
+    background-image: url("czechia.png");
+    border-radius: 50%;
+}
+
+.ethiopia {
+    background-image: url("ethiopia.png");
+    border-radius: 50%;
+}
+
+.eGermany {
+    background-image: url("eastG.png");
+    border-radius: 50%;
+}
+
+.grenada {
+    background-image: url("grenada.png");
+    border-radius: 50%;
+}
+
+.hungary {
+    background-image: url("hungary.jpg");
+    border-radius: 50%;
+}
+
+.kampuchea {
+    background-image: url("Cambodia.png");
+    border-radius: 50%;
+}
+
+.mongolia {
+    background-image: url("mongol.jpg");
+    border-radius: 50%;
+}
+
+.mozambique {
+    background-image: url("mozambique.jpg");
+    border-radius: 50%;
+}
+
+.poland {
+    background-image: url("poland.jpg");
+    border-radius: 50%;
+}
+
+.romania {
+    background-image: url("romania.jpg");
+    border-radius: 50%;
+}
+
+.somalia {
+    background-image: url("somilia.png");
+    border-radius: 50%;
+}
+
+.soviet {
+    background-image: url("soviet.jpg");
+    border-radius: 50%;
+}
+
+.tuva {
+    background-image: url("tuva.jpg");
+    border-radius: 50%;
+}
+
+.yemen {
+    background-image: url("yemen.jpg");
+    border-radius: 50%;
+}
+
+.yugoslavia {
+    background-image: url("yugoslavia.png");
+    border-radius: 50%;
+}
+
+
